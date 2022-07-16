@@ -1,0 +1,8 @@
+.idea
+/vendor
+/assets/bootstrap
+/assets/fonts
+/assets/js/jquery-1.12.4.min.js
+/assets/index.html
+composer.lock
+*.html
